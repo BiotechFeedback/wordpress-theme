@@ -8,7 +8,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand logo" href="<?= esc_url(home_url('/')); ?>"> <img src="<?php echo get_stylesheet_directory_uri(); ?>/dist/images/Climate_Feedback_logo_s.png"> Climate Feedback</a>
+      <a class="navbar-brand logo" href="<?= esc_url(home_url('/')); ?>"> <img src="<?php echo get_stylesheet_directory_uri(); ?>/dist/images/biotechfeedback_logo.png"> Biotech Feedback</a>
     </div>
     <nav class="collapse navbar-collapse" role="navigation">
       <?php
@@ -20,10 +20,8 @@
       <!-- Social Media -->
       <div class="social-media pull-right">
           <a data-tooltip="Subscribe to our email news feed" class="tooltip-bottom" href="http://eepurl.com/buIIXv"><i class="fa fa-envelope"></i></a>
-          <a href="https://www.facebook.com/pages/Climate-Feedback/1547593572151463" target="_blank"><i class="fa fa-facebook"></i></a>
-          <a href="https://twitter.com/ClimateFdbk" target="_blank"><i class="fa fa-twitter"></i></a>
-<!--          <a href="https://github.com/climatefeedback" target="_blank"><i class="fa fa-github"></i></a>-->
-          <!-- Include hypothes.is stream link -->
+          <a href="https://www.facebook.com/Biotech-Feedback/" target="_blank"><i class="fa fa-facebook"></i></a>
+          <a href="https://twitter.com/BiotechFdbk" target="_blank"><i class="fa fa-twitter"></i></a>
            <a href="<?php bloginfo('rss2_url'); ?>" title="RSS Feed"><i class="fa fa-rss"></i></a>
       </div>
       <!-- / Social media -->
