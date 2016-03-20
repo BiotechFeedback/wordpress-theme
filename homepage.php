@@ -54,7 +54,7 @@ Template Name: Homepage
   </section>
 
 </div><!-- / .container -->
-<!--
+
 <section class="scientist-signup">
   <div class="container">
     <div class="row">
@@ -64,14 +64,15 @@ Template Name: Homepage
         </div>
         <div class="media-body">
           <h3>SCIENTISTS!</h3>
-          <h4>Help us create a better informed society. Join our community today!</h4>
+          <h4>Help us create a better informed society! Request to join today.
+              </h4>
           <a href="for-scientists/" class="btn btn-primary btn-lg">Apply Now</a>
         </div>
       </div>
     </div>
   </div>
 </section>
--->
+
 <div class="container">
   <section class="news-and-evaluations">
     <div class="row section">

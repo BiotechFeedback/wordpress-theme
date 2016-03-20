@@ -20,7 +20,10 @@ a {
   }
 
   &.btn {
-    background-color: #4ccdc8;
+    background-color: #399995;
+    &:hover {
+    background-color: #266664;
+    }
   }
   &.inline-btn {
     text-decoration: none;
@@ -364,7 +367,7 @@ section {
 }
 
 .scientist-signup {
-  background: #5c4082;
+  background: #4ccdc8;
   color: #FFF;
 }
 
