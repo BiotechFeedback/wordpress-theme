@@ -10,7 +10,7 @@ Template Name: Homepage
 <div class="sigla jumbotron">
   <div class="container">
     <div class="row">
-      <h3 class="tagline half-black">A voice for science in biotech media coverage</h3>
+      <h3 class="tagline half-black">A voice for science in online media coverage of biotechnology</h3>
     </div>
   </div>
 </div>
@@ -20,8 +20,8 @@ Template Name: Homepage
   <section class="highlevel-overview">
     <div class="row ">
       <div class="col-sm-6 ">
-        <h3 class="spaceup">Today’s media climate leads to confusion</h3>
-        <p>With so much information available online, trying to figure out which information is credible — and what is not — is a real challenge. When so much of what we read falls outside of our own expertise, how can we know which headlines and news articles are consistent with science? </p>
+        <h3 class="spaceup">Online information about biotechnology can be conflicting - and confusing</h3>
+        <p>There is a plethora of information about biotechnology online. However, it is difficult to identify which news reports of biotechnology are accurate, and which are not. This is especially true for the vast majority of us who are not experts in the field. </p>
       </div>
       <div class="col-sm-6">
         <img class="fig" src="<?php echo get_stylesheet_directory_uri(); ?>/dist/images/i1_confusion.png">
@@ -33,8 +33,9 @@ Template Name: Homepage
         <img alt="A daily mail article annotated by scientists." src="<?php echo get_stylesheet_directory_uri(); ?>/dist/images/i2_our-process.png" class="fig" />
       </div>
       <div class="col-sm-6 ">
-        <h3 class="spaceup">What if online coverage could be peer-reviewed?</h3>
-        <p>Using the <a href="http://hypothes.is" target="_blank">Hypothesis</a> annotation platform, our community of scientists go through a variety of online media articles and provide ‘feedback’ on the scientific accuracy of the information presented. Readers can view these annotations directly alongside the original texts and see exactly where the article’s information is consistent — or inconsistent — with scientific thinking and state-of-the-art knowledge in the field.</p>
+        <h3 class="spaceup">What if popular media could be reviewed by scientific experts?</h3>
+        <p>Thanks to the <a href="http://hypothes.is" target="_blank">Hypothesis</a> online annotation platform, scientists now have a way to give line-by-line feedback to online news reports of biotechnology. This allows readers to view scientists’ remarks in the context of the original text to identify exactly where the information is consistent - or inconsistent - with expert understanding in the field.
+        </p>
       </div>
       <div class="col-sm-6 visible-xs">
         <img alt="A daily mail article annotated by scientists." src="<?php echo get_stylesheet_directory_uri(); ?>/dist/images/i2_our-process.png" class="fig" />
@@ -43,8 +44,8 @@ Template Name: Homepage
 
     <div class="row ">
       <div class="col-sm-6">
-        <h3 class="spaceup">Accurate information: the foundation of a functioning democracy</h3>
-        <p>To be properly informed, citizens need access to journalism of the highest accuracy and the tools to evaluate the credibility of what they read. This project aims to achieve both by 1) bringing the expertise of the scientific community into the world of online journalism, and 2) providing readers with top-level “credibility ratings” for a broad range of online news articles.</p>
+        <h3 class="spaceup">Freely available, accurate information: the foundation of a functioning democracy</h3>
+        <p>In order to make informed decisions regarding their day-to-day lives, citizens need access to credible information from trusted sources. The goal of Biotech Feedback is to leverage the expertise of the scientific community to 1) provide direct feedback to journalists and 2) provide readers with easily accessible credibility assessments for online news articles.</p>
       </div>
       <div class="col-sm-6">
         <img alt="" class="fig" src="<?php echo get_stylesheet_directory_uri(); ?>/dist/images/i3_result.png">
@@ -53,7 +54,7 @@ Template Name: Homepage
   </section>
 
 </div><!-- / .container -->
-
+<!--
 <section class="scientist-signup">
   <div class="container">
     <div class="row">
@@ -70,7 +71,7 @@ Template Name: Homepage
     </div>
   </div>
 </section>
-
+-->
 <div class="container">
   <section class="news-and-evaluations">
     <div class="row section">
