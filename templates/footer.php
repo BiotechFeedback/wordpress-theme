@@ -5,20 +5,19 @@
 	  	<h3>biotech feedback </h3>
 	  	<hr/>
 	  	<div class="col-sm-3 col-xs-6">
-	  		<h4>HOSTED BY</h4>
-	  		<img src="<?php echo get_stylesheet_directory_uri(); ?>/dist/images/ucmerced.jpg" class="sponser">
+	  		<h4>HOSTED BY</h4> 
+            <a target="_blank" href="http://worldfoodcenter.ucdavis.edu/What_We_Do/IFAL.html"><img src="<?php echo get_stylesheet_directory_uri(); ?>/dist/images/IFALSig_FL2.png" class="sponser"></a>
 	  		<p class="small">The World Food Center Institute for Food and Agricultural Literacy (IFAL) at UC Davis</p>
 	  	</div>
 	  	<div class="col-sm-3 col-xs-6">
 	  		<h4>SUPPORTED BY</h4>
-	  		<a target="_blank" href="http://citris-uc.org/"><img src="<?php echo get_stylesheet_directory_uri(); ?>/dist/images/citris-logo.png" class="sponser" style="float:left; margin-right:1em;"></a>
 	  		<p class="small">The UC Davis Chancellor’s Postdoctoral Fellowship Program</p>
 	  		<!--<p class="small">Generous support from the public. <a href="contribute/">Donate today</a>!</p>-->
 	  		<!--</ul>-->
 	  	</div>
 	  	<div class="col-sm-3 col-xs-6">
 	  		<h4>IN PARTNERSHIP WITH</h4>
-	  		<a target="_blank" href="http://www.climaterapidresponse.org/"><img src="<?php echo get_stylesheet_directory_uri(); ?>/dist/images/csrrt.png" class="sponser"></a>
+	  		<a target="_blank" href="http://climatefeedback.org/"><img src="<?php echo get_stylesheet_directory_uri(); ?>/dist/images/cf_logos_wt_text2.png" class="sponser"></a>
 	  		<p class="small">Climate Feedback </p>
 	  	</div>
 	  	<div class="col-sm-3 col-xs-6">

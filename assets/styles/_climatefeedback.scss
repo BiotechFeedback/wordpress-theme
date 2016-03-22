@@ -20,9 +20,9 @@ a {
   }
 
   &.btn {
-    background-color: #399995;
+    background-color: #669999;
     &:hover {
-    background-color: #266664;
+    background-color: #669999;
     }
   }
   &.inline-btn {
@@ -176,16 +176,16 @@ footer {
   &.content-info {
     padding-bottom: 20px;
     padding-top: 10px;
-    background: #5c4082;
+    background: #666699;
     color: #FFF;
   }
 
   a {
-    color: #4ccdc8;
+    color: #99CCCC;
     word-wrap: break-word;
 
     &:hover {
-      color: #5DB3C1;
+      color: #99CCCC;
     }
   }
 
@@ -204,7 +204,7 @@ section {
 }
 
 .separator {
-    background: #5c4082; 
+    background: #666699; 
     color: #fff;
 }
 
@@ -361,13 +361,13 @@ section {
 // }
 
 .campaign {
-  background: #5c4082;
+  background: #666699;
   color: #FFF;
   margin-top: -1.9em;
 }
 
 .scientist-signup {
-  background: #4ccdc8;
+  background: #99CCCC;
   color: #FFF;
 }
 

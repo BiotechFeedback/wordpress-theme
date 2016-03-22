@@ -24,13 +24,13 @@ Template Name: Homepage
         <p>There is a plethora of information about biotechnology online. However, it is difficult to identify which news reports of biotechnology are accurate, and which are not. This is especially true for the vast majority of us who are not experts in the field. </p>
       </div>
       <div class="col-sm-6">
-        <img class="fig" src="<?php echo get_stylesheet_directory_uri(); ?>/dist/images/i1_confusion.png">
+        <img class="fig" src="<?php echo get_stylesheet_directory_uri(); ?>/dist/images/cf_logos_screenshots_1_bis.png">
       </div>
     </div>
 
     <div class="row ">
       <div class="col-sm-6 hidden-xs">
-        <img alt="A daily mail article annotated by scientists." src="<?php echo get_stylesheet_directory_uri(); ?>/dist/images/i2_our-process.png" class="fig" />
+        <img alt="A daily mail article annotated by scientists." src="<?php echo get_stylesheet_directory_uri(); ?>/dist/images/cf_logos_screenshots_2.png" class="fig" />
       </div>
       <div class="col-sm-6 ">
         <h3 class="spaceup">What if popular media could be reviewed by scientific experts?</h3>
@@ -38,7 +38,7 @@ Template Name: Homepage
         </p>
       </div>
       <div class="col-sm-6 visible-xs">
-        <img alt="A daily mail article annotated by scientists." src="<?php echo get_stylesheet_directory_uri(); ?>/dist/images/i2_our-process.png" class="fig" />
+        <img alt="A daily mail article annotated by scientists." src="<?php echo get_stylesheet_directory_uri(); ?>/dist/images/cf_logos_screenshots_2.png" class="fig" />
       </div>
     </div>
 
@@ -48,7 +48,7 @@ Template Name: Homepage
         <p>In order to make informed decisions regarding their day-to-day lives, citizens need access to credible information from trusted sources. The goal of Biotech Feedback is to leverage the expertise of the scientific community to 1) provide direct feedback to journalists and 2) provide readers with easily accessible credibility assessments for online news articles.</p>
       </div>
       <div class="col-sm-6">
-        <img alt="" class="fig" src="<?php echo get_stylesheet_directory_uri(); ?>/dist/images/i3_result.png">
+        <img alt="" class="fig" src="<?php echo get_stylesheet_directory_uri(); ?>/dist/images/cf_logos_screenshots_3.png">
       </div>
     </div>
   </section>
