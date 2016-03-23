@@ -19,9 +19,9 @@
 
       <!-- Social Media -->
       <div class="social-media pull-right">
-         <!-- / .row  <a data-tooltip="Subscribe to our email news feed" class="tooltip-bottom" href="http://eepurl.com/buIIXv"><i class="fa fa-envelope"></i></a> -->
+         <!-- / .row  <a data-tooltip="Subscribe to our email news feed" class="tooltip-bottom" href="http://eepurl.com/buIIXv"><i class="fa fa-envelope"></i></a> 
           <a href="https://www.facebook.com/Biotech-Feedback/" target="_blank"><i class="fa fa-facebook"></i></a>
-          <a href="https://twitter.com/BiotechFdbk" target="_blank"><i class="fa fa-twitter"></i></a>
+          <a href="https://twitter.com/BiotechFdbk" target="_blank"><i class="fa fa-twitter"></i></a> -->
            <a href="<?php bloginfo('rss2_url'); ?>" title="RSS Feed"><i class="fa fa-rss"></i></a>
       </div>
       <!-- / Social media -->
